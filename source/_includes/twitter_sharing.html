@@ -1,0 +1,11 @@
+{% if site.twitter_follow_button or site.twitter_tweet_button %}
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//libs.cncdn.cn/easyXDM/2.4.18.25/easyXDM.Widgets.min.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+{% endif %}

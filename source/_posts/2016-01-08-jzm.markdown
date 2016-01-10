@@ -1,0 +1,21 @@
+---
+layout: post
+title: "jzm"
+date: 2016-01-08 19:13:15 +0800
+comments: true
+categories: [123,123]
+---
+# 博客
+## 蒋志明的第一个博客
+
+**你想学习怎么制作博客么**
+
+>制作流程
+
+[制作秘籍](http://www.baidu.com)
+
+```
+public class jzm{
+	conlose.log("你真帅")
+}
+```
